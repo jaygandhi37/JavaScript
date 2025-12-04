@@ -25,6 +25,7 @@ console.table(typeof userId);
 // undefine
 // symbol => unique
 
+
 // object
 
 console.log(typeof undefined); // undefined
