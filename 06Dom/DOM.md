@@ -1,8 +1,7 @@
 # document  
 ==>  to select all document
 
-# .getElementById  
-# document.getElementById('title')  
+# .getElementById  <br> document.getElementById('title')  
 ==>  it give full element of that title Id
 
 # .getElementByClassName
